@@ -1,0 +1,38 @@
+[
+  {
+    "id": "v1",
+    "type": "video",
+    "title": "City Lights Reel",
+    "desc": "Night fashion vibes",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "cover": "https://picsum.photos/seed/flower1/720/1280",
+    "creator": {
+      "name": "Atul",
+      "avatar": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "p1",
+    "type": "photo",
+    "title": "Floral Elegance",
+    "desc": "Soft pastel fashion",
+    "url": "https://picsum.photos/seed/photo1/800/800",
+    "cover": "https://picsum.photos/seed/photo1/800/800",
+    "creator": {
+      "name": "Atul",
+      "avatar": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  },
+  {
+    "id": "v2",
+    "type": "video",
+    "title": "Neon Street Reel",
+    "desc": "Dark + pastel aesthetic",
+    "url": "https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4",
+    "cover": "https://picsum.photos/seed/flower2/720/1280",
+    "creator": {
+      "name": "Atul",
+      "avatar": "https://picsum.photos/seed/avatar1/100/100"
+    }
+  }
+]
